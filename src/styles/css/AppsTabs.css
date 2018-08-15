@@ -1,0 +1,12 @@
+.appstabs__tab {
+  max-width: none !important; }
+
+.appstabs__apps-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: normal;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 1em; }
+
+/*# sourceMappingURL=AppsTabs.css.map */

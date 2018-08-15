@@ -1,0 +1,29 @@
+.navbar__container {
+  width: 100%; }
+  .navbar__container .navbar__logo {
+    filter: hue-rotate(200deg) brightness(10); }
+  .navbar__container .navbar__menu-bar-right-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; }
+    .navbar__container .navbar__menu-bar-right-info .navbar__users-icon {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+      margin: 0; }
+      .navbar__container .navbar__menu-bar-right-info .navbar__users-icon .navbar__users-info {
+        padding: .2em;
+        margin: 0; }
+    .navbar__container .navbar__menu-bar-right-info .navbar__account-name {
+      margin: 0 2rem; }
+    .navbar__container .navbar__menu-bar-right-info .navbar__account-photo {
+      background-image: url("/assets/images/account_photo.jpeg");
+      background-position: center;
+      background-size: contain; }
+    .navbar__container .navbar__menu-bar-right-info .navbar__menu-item {
+      min-width: 50em; }
+
+/*# sourceMappingURL=NavBar.css.map */

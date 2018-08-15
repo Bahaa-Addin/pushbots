@@ -1,0 +1,9 @@
+@mixin flex($dir, $align-main, $align-cross) {
+  display: flex;
+  flex-direction: $dir;
+  justify-content: $align-main;
+  align-items: $align-cross;
+}
+
+$break-small: 320px;
+$break-large: 1300px;

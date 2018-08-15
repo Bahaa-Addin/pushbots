@@ -1,0 +1,23 @@
+<svg height="40" viewBox="0 0 88.75 103.22" width="50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.cls-1 {fill: #06b4a6;}</style>
+    </defs>
+    <title></title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-1" height="10.96" width="19.27" x="20.13" y="92.26"></rect>
+            <rect class="cls-1" height="25.94" width="10.96" y="40.77"></rect>
+            <rect class="cls-1" height="10.96" width="19.27" x="47.66" y="92.26"></rect>
+            <path class="cls-1" d="M1.84,79.5A9.11,9.11,0,0,0,11,88.61V70.38A9.11,9.11,0,0,0,1.84,79.5Z"></path>
+            <rect class="cls-1" height="25.94" width="10.96" x="77.79" y="40.77"></rect>
+            <path class="cls-1" d="M77.79,70.38V88.61a9.11,9.11,0,1,0,0-18.23Z"></path>
+            <path class="cls-1" d="M34.74,37.1H54V32.5h16.8V5.33H54.43a12.25,12.25,0,0,0-20.22,0H17.93V32.5h16.8ZM56.26,11.42a7.49,7.49,0,1,1-7.49,7.49A7.49,7.49,0,0,1,56.26,11.42Zm-23.78,15A7.49,7.49,0,1,1,40,18.91,7.49,7.49,0,0,1,32.49,26.41Z"></path>
+            <circle class="cls-1" cx="32.49" cy="18.91" r="3.82"></circle>
+            <circle class="cls-1" cx="56.26" cy="18.91" r="3.82"></circle>
+            <polygon class="cls-1" points="14.63 43.37 14.63 85.92 35.91 64.64 14.63 43.37"></polygon>
+            <polygon class="cls-1" points="71.53 40.77 17.23 40.77 44.38 67.92 71.53 40.77"></polygon>
+            <polygon class="cls-1" points="44.38 73.12 44.37 73.08 44.36 73.1 38.5 67.24 17.14 88.61 71.62 88.61 50.25 67.24 44.38 73.12"></polygon>
+            <polygon class="cls-1" points="74.12 85.91 74.12 43.38 52.85 64.64 74.12 85.91"></polygon>
+        </g>
+    </g>
+</svg>

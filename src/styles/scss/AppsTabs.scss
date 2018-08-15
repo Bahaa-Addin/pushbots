@@ -1,0 +1,11 @@
+@import "variables";
+
+.appstabs__tab{
+  max-width: none !important;
+}
+
+.appstabs__apps-container {
+  @include flex(row, normal, flex-start);
+  flex-wrap: wrap;
+  padding: 1em;
+}

@@ -1,0 +1,34 @@
+@import "variables";
+
+.appcard__wrapper {
+  @include flex(column, normal, normal);
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin: .5em;
+  flex-basis: 32%;
+  max-height: 156px;
+  @media (max-width: $break-large) {
+    flex-grow: 1;
+    flex-basis: 48%;
+  }
+
+  .appcard__header {
+    padding-bottom: 0 !important;
+
+    .appcard__share-icon path {
+      fill: dodgerblue
+    }
+  }
+
+  .appcard__content {
+    @include flex(row, flex-start, flex-start);
+    padding-top: 0 !important;
+
+    .appcard__platform-icon {
+      @include flex(row, center, center);
+      margin: 0 .5em;
+      font-size: 1em;
+      color: grey;
+    }
+  }
+}

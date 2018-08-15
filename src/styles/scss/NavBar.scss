@@ -1,0 +1,38 @@
+@import "variables";
+
+.navbar__container {
+  width: 100%;
+
+  .navbar__logo {
+    filter: hue-rotate(200deg) brightness(10);
+  }
+
+  .navbar__menu-bar-right-info {
+    @include flex(row, center, center);
+
+    .navbar__users-icon{
+      @include flex(row, space-between, center);
+      color: white;
+      margin: 0;
+
+      .navbar__users-info{
+        padding: .2em;
+        margin: 0;
+      }
+    }
+
+    .navbar__account-name {
+      margin: 0 2rem;
+    }
+
+    .navbar__account-photo {
+      background-image: url("/assets/images/account_photo.jpeg");
+      background-position: center;
+      background-size: contain;
+    }
+
+    .navbar__menu-item {
+      min-width: 50em;
+    }
+  }
+}

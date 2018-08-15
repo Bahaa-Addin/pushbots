@@ -1,0 +1,11 @@
+@import "variables";
+
+body {
+  @include flex(column, center, center);
+  height: 100vh;
+
+  #root{
+    width: 100vw;
+    height: 100vh;
+  }
+}

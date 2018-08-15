@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,cAAc;EACZ,SAAS,EAAE,eAAe;;AAG5B,yBAA0B;ECLxB,OAAO,EAAE,IAAI;EACb,cAAc,EDKA,GAAG;ECJjB,eAAe,EDII,MAAM;ECHzB,WAAW,EDGgB,UAAU;EACrC,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,GAAG",
+"sources": ["../scss/AppsTabs.scss","../scss/variables.scss"],
+"names": [],
+"file": "AppsTabs.css"
+}

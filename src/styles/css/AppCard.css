@@ -1,0 +1,34 @@
+.appcard__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: normal;
+  align-items: normal;
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin: .5em;
+  flex-basis: 32%;
+  max-height: 156px; }
+  @media (max-width: 1300px) {
+    .appcard__wrapper {
+      flex-grow: 1;
+      flex-basis: 48%; } }
+  .appcard__wrapper .appcard__header {
+    padding-bottom: 0 !important; }
+    .appcard__wrapper .appcard__header .appcard__share-icon path {
+      fill: dodgerblue; }
+  .appcard__wrapper .appcard__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 0 !important; }
+    .appcard__wrapper .appcard__content .appcard__platform-icon {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      margin: 0 .5em;
+      font-size: 1em;
+      color: grey; }
+
+/*# sourceMappingURL=AppCard.css.map */
